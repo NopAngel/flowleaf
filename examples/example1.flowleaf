@@ -1,0 +1,41 @@
+
+Body:
+   main:
+     section.main:
+        h1:
+            Sitio Web EXAMPLE
+        |h1
+        p:
+            LOLLLLLLLLLLLLLLLL!!!!
+        |p
+    |section
+
+    section.contact:
+        h1:
+            Contacto
+        |h1
+        p:
+            LOLLLLLLLLLLLLLLLL!!!!
+        |p
+    |section
+
+    section.about:
+        h1:
+            About
+        |h1
+
+        span:
+            About Me Hola, ¿Cómo estás? Espero que bien, esto es una prueba.
+        |span
+
+    footer:
+
+        p:
+            FOOTER, CON CONTENIDO
+        |p
+
+        h4:
+            Autor: Angel Nieto
+        |h4
+    |footer
+
