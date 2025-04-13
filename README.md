@@ -16,7 +16,7 @@ It's probably going to give some errors, for now it's in development :)
 
 To install FlowLeaf you have to follow these steps:
 
-1. **Install**: Go to the link here, and you will download FlowLeaf, you can also go to GitHub Releases and download it
+1. **Install**: Go to the link [here](https://github.com/NopAngel/flowleaf/releases/download/flowleaf-version-1.0/FlowLeaf.exe), and you will download FlowLeaf, you can also go to GitHub Releases and download it
 2. After installing it you will need to create a file with the `flowleaf` extension.
 
 And that's it, you can now create FlowLeaf code.
