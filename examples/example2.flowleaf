@@ -9,4 +9,21 @@ Body:
         |h1
     |section
 
+    section.about:
+        h1:
+            About Me
+        |h1
+
+        p:
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non varius tortor. Curabitur ac dapibus mi. Sed ac nisl risus. Morbi massa nisi, posuere sed dapibus auctor, egestas id justo. Nunc sit amet mollis leo. Donec eget vulputate nisi. Vivamus elementum euismod lorem, sed condimentum ex luctus et. Fusce eget risus laoreet dolor facilisis vestibulum.
+        |p
+
+    footer:
+        p:
+          Thanks for watching 😂😂
+        |p
+    |footer
+
+
+
 |main
