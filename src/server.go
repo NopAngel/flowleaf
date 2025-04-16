@@ -27,7 +27,7 @@ func StartServer(sourceFile string) {
 		w.WriteHeader(http.StatusOK)
 		_, err = w.Write([]byte(htmlCode))
 		if err != nil {
-			fmt.Println("Error al escribir la respuesta:", err)
+			fmt.Println("Error for written the answer:", err)
 		}
 	})
 
