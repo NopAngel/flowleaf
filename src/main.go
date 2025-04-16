@@ -15,7 +15,7 @@ func main() {
 
 	sourceCode, err := os.ReadFile(filePath)
 	if err != nil {
-		fmt.Printf("Error al abrir el archivo: %s\n", err)
+		fmt.Printf("Error for open the file: %s\n", err)
 		return
 	}
 
