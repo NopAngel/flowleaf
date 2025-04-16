@@ -1,0 +1,12 @@
+Body:
+
+  main:
+
+    section.hero:
+
+        h1:
+            My Page!!!!!!
+        |h1
+    |section
+
+|main
